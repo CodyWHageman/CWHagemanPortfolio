@@ -5,7 +5,7 @@ This website is a portfolio that's contains projects I have done due to needs be
 No libraries or frameworks were used on this website.
 
 ## Backend
-Due to the simplicity of this site I have chosen to use Firebase as my store. Because of this I am using Firebase as my serverless backend using Cloud Functions.
+Due to the simplicity of this site I have chosen to use Firebase to store data. Because of this I am using Firebase as a serverless backend using Cloud Functions.
 
 ## Standards
 ### CSS
